@@ -13,14 +13,17 @@ Requires the Alfred [Powerpack.](https://www.alfredapp.com/powerpack/)
 ## Configure
 
 Visit **System Preferences > Dock & Menu Bar** and ensure "Automatically hide and show Dock" is enabled.
+
 ![](Images/dock-settings.png)
 
 Adjust the time it takes to reveal the dock by changing the "delay" variable (default 10s)
+
 ![](Images/workflow-settings.png)
 
 ## Usage
 
 Use "dock enable" or "dock disable" to toggle the dock visibility
+
 ![](Images/dock-coontroller-alfred-view.png)
 
 ## Notes
