@@ -1,6 +1,6 @@
 # Dock Controller
 
-> An Alfred Workflow to enable or disable the visibility of the macOS dock.
+> An Alfred Workflow to enable or disable the visibility of the macOS dock even when you hover your cursor at the edge of the screen.
 
 This workflow does not fully disable the dock but rather changes the amount of time you must hover your mouse at the edge of the screen before the dock is revealed.
 
