@@ -1,6 +1,6 @@
 # Dock Controller
 
-> An Alfred Workflow to enable or disable the visibility of the MacOS dock.
+> An Alfred Workflow to enable or disable the visibility of the macOS dock.
 
 This workflow does not fully disable the dock but rather changes the amount of time you must hover your mouse at the edge of the screen before the dock is revealed.
 
@@ -29,8 +29,8 @@ Use "dock enable" or "dock disable" to toggle the dock visibility
 ## Notes
 
 - It is normal and expected for the background to turn black for a few seconds when you run this workflow
-- Tested on macOS 11.1 Bid Sur
+- Tested on macOS 11.1 Big Sur
 
 ## License
 
-Alfred Dock Controller is a free and open source software licensed under GNU v3. Enjoy!
+Alfred Dock Controller is a free and open-source software licensed under GNU v3. Enjoy!
